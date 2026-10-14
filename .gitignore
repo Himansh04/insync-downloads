@@ -1,0 +1,8 @@
+# Secrets never go in git (IN SYNC repo standard): keys live in C:\Users\himan\.insync-keys\
+.env
+.env.*
+!.env.example
+google-services.json
+*.jks
+*.keystore
+service-account*.json
